@@ -1,7 +1,7 @@
 # Notes
 This it's a fork of the nightwatch-api cucumber example.
 
-I wanted to simplify it where possible, so I've stripped out babel which isn't really needed since it runs in nodejs.
+I wanted to simplify it where possible, so I've stripped out babel which isn't really needed since it runs on nodejs.
 
 I've also added a Dockerfile to show how to run the tests in CI pipelines.
 
